@@ -1,0 +1,1 @@
+HALAMAN ABOUT<?php /**PATH C:\Users\user\Documents\GitHub\project-laravel\code\Yeviameiningsih-09020582024059\web_statis\resources\views/about_us.blade.php ENDPATH**/ ?>
